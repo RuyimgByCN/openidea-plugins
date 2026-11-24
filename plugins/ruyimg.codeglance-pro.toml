@@ -1,0 +1,6 @@
+repository = "https://github.com/RuyimgByCN/openidea-codeglance-pro"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/RuyimgByCN/openidea-codeglance-pro/releases/download/v0.1.0/ruyimg.codeglance-pro-0.1.0.oiplugin"
+sha256 = "6ddba043a440908e067dee8b8c2ee27c7ba18a3084ee6750659a6086f76ec836"
