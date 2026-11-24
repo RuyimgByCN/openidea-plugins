@@ -1,6 +1,11 @@
 repository = "https://github.com/xiaohuiduan/apimocktle-openidea"
 
 [[versions]]
+version = "0.3.1"
+package = "https://github.com/xiaohuiduan/apimocktle-openidea/releases/download/v0.3.1/apimocktle.openidea-0.3.1.oiplugin"
+sha256 = "f54bbfb04433a857a37de8666913f3c9bdf0c6a464d8cd15d26fe7cf8e53c932"
+
+[[versions]]
 version = "0.3.0"
 package = "https://github.com/xiaohuiduan/apimocktle-openidea/releases/download/v0.3.0/apimocktle.openidea-0.3.0.oiplugin"
 sha256 = "e34d4cff8cf171e6ef7404867361371f3e6030f149328bcdb62b3fdfef75ffda"
