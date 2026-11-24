@@ -1,0 +1,6 @@
+repository = "https://github.com/RuyimgByCN/openidea-toolset"
+
+[[versions]]
+version = "0.4.3"
+package = "https://github.com/RuyimgByCN/openidea-toolset/releases/download/v0.4.3/ruyimg.toolset-0.4.3.oiplugin"
+sha256 = "d51e9210cf766ce90c8edcf837f74343e948c2dda759f6ba3fc0eb3971a3c705"
