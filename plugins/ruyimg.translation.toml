@@ -1,0 +1,6 @@
+repository = "https://github.com/RuyimgByCN/openidea-translation"
+
+[[versions]]
+version = "0.1.1"
+package = "https://github.com/RuyimgByCN/openidea-translation/releases/download/v0.1.1/ruyimg.translation-0.1.1.oiplugin"
+sha256 = "fc9b2625e536f10b08bc45483468b376eb403dc84ef0b62010e17a023a39cc38"
