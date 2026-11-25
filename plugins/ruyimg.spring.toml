@@ -1,0 +1,14 @@
+repository = "https://github.com/RuyimgByCN/openidea-spring"
+suggest = [
+  "src/main/resources/application.yml",
+  "src/main/resources/application.yaml",
+  "src/main/resources/application.properties",
+  "pom.xml",
+  "build.gradle",
+  "build.gradle.kts",
+]
+
+[[versions]]
+version = "0.1.1"
+package = "https://github.com/RuyimgByCN/openidea-spring/releases/download/v0.1.1/ruyimg.spring-0.1.1.oiplugin"
+sha256 = "3abab7f49c446807161ff3b2569fb1935ac3a52b9c7ff8dcc53b2e928d8d37ac"
